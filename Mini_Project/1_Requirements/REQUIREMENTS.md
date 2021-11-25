@@ -1,18 +1,15 @@
 ## 1.IDENTIFYING FEATURES
 
-   Online access, Search function using(playstore,ios,chrome) ,Flexibility.
+   Online access, Search function using(playstore,ios,chrome) ,Flexibility,Mobile flash games(Android,Ios), 
+   Pc flash games, easy access to applications,security
 
 ## 2.STATE OF ART
 
-   A snake game is a
-   software application that uses in both Mobile applications(Android,
-   Ios), Desktops. It use to store the database of the user of whom signed
-   the game. Users can sign in using Gmail, facebook.
+   A snake game is a software application that uses in both Mobile applications(Android,Ios), Desktops. 
+   It use to store the database of the user of whom signed the game. Users can sign in using Gmail, facebook.
 
 ## 3.4 W and 1 H
 
-   Mobile flash games(Android,Ios), Pc flash games, easy access to applications,security
-   
    ## WHAT 
    A game which can be used to check or enhance our general knowledge
    
@@ -27,19 +24,32 @@
 
 ## 4.SWOT ANALYSIS
 
-   Strength is it can be accessible to mobile and
-   pc with basic minimum requirments, with or without internet connection
-   it can be played. Weakness is it cannot be palyed on high resolution
-   graphics.
-
+   **Strength**
+   It can be accessible to mobile and pc with basic minimum requirments, with or without internet connectionit can be played. 
+   
+   **Weakness**
+   It cannot be palyed on high resolution graphics.
+   
+   
 ## 5.HIGH LEVEL REQUIREMENTS
 
-   It can be accessed up to updated RAM.
+   1. Creating a board 
+   
+   2. Creating a snake
+   
+   3. Creating a target
+    
+   4. Moving the snake
    
 ## 6.LOW LEVEL REQUIREMENTS
 
-   It can access in basic mobile model.
+   1. Create borders 
+   
+   2. Create coordinates for snake body 
 
+   3. Create multiple coordinate axes
+   
+   4. Generate scores of players
 ## FUNCTIONAL REQUIREMENTS
 
   WASD keys for W-Up, A-Left, S-Down, D-Right change the snake's
