@@ -10,24 +10,24 @@
 
 ## 3.4 W and 1 H
 
-   ## WHAT 
+## WHAT 
    A game which can be used to check or enhance our general knowledge
    
-   ## WHERE 
+## WHERE 
    One can play this game whenever free and need refreshment.
    
-   ## WHO  
+## WHO  
    Every person with elecronic devices need games for relaxement.
    
-   ## WHERE
+## WHERE
    It can be played by everyone and everywhere irrespective of their age.
 
 ## 4.SWOT ANALYSIS
 
-   **Strength**
+ **Strength**
    It can be accessible to mobile and pc with basic minimum requirments, with or without internet connectionit can be played. 
    
-   **Weakness**
+ **Weakness**
    It cannot be palyed on high resolution graphics.
    
    
@@ -50,6 +50,7 @@
    3. Create multiple coordinate axes
    
    4. Generate scores of players
+   
 ## FUNCTIONAL REQUIREMENTS
 
   WASD keys for W-Up, A-Left, S-Down, D-Right change the snake's
