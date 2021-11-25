@@ -32,17 +32,17 @@
    
 ## 5.HIGH LEVEL REQUIREMENTS
 
-1. Creating a board 
-2. Creating a snake
-3. Creating a target
-4. Moving the snake
+1.Creating a board 
+2.Creating a snake
+3.Creating a target
+4.Moving the snake
    
 ## 6.LOW LEVEL REQUIREMENTS
 
-1. Create borders 
-2. Create coordinates for snake body 
-3. Create multiple coordinate axes
-4. Generate scores of players
+1.Create borders 
+2.Create coordinates for snake body 
+3.Create multiple coordinate axes
+4.Generate scores of players
    
 ## FUNCTIONAL REQUIREMENTS
 
