@@ -84,10 +84,8 @@
 ## BEHAVIOURAL DIAGRAM 
 ![Behavioral diagram (2)](https://user-images.githubusercontent.com/94282290/143451146-e17cccc4-c16b-4a87-9460-4162fce1e94c.png)
 
-
 ## STRUCTURAL DIAGRAM
 ![Structural diagram](https://user-images.githubusercontent.com/94282290/143451278-7e1ac320-b64a-49d2-98bf-71d5205ed2bf.jpg)
-
 
 ### High Level Test Cases
 | Test Id |	Description |	Expected output |	Actual output |	Pass/Fail(Result) |
@@ -101,5 +99,3 @@
 |------|------|------|------|------|
 | TID 1 |Fruit will generate automatically within the boundaries | SUCCESS | SUCCESS | PASS 
 | TID 2 |Whenever the snake will touch the boundary the game is over | SUCCESS | SUCCESS |  PASS
-
-
