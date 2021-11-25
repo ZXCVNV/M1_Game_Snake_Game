@@ -11,8 +11,19 @@
 
 ## 3.4 W and 1 H
 
-   Mobile flash games(Android,Ios), Pc flash games, easy access to applications,
-   security.
+   Mobile flash games(Android,Ios), Pc flash games, easy access to applications,security
+   
+   ## WHAT 
+   A game which can be used to check or enhance our general knowledge
+   
+   ## WHERE 
+   One can play this game whenever free and need refreshment.
+   
+   ## WHO  
+   Every person with elecronic devices need games for relaxement.
+   
+   ## WHERE
+   It can be played by everyone and everywhere irrespective of their age.
 
 ## 4.SWOT ANALYSIS
 
